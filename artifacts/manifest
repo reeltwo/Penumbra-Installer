@@ -1,0 +1,16 @@
+[
+    {
+        "name": "PenumbraShadowMD-23.02.27",
+        "branch": "23.02.27",
+        "description": "### 2023 February 27",
+        "url": "https://github.com/reeltwo/PenumbraShadowMD/releases/download/23.02.27/PenumbraShadowMD.bin",
+        "zipfile": "https://github.com/reeltwo/PenumbraShadowMD/releases/download/23.02.27/PenumbraShadowMD.zip",
+        "release_details": {
+            "version": "23.02.27",
+            "idf": "v4.3",
+            "platform": "PenumbraShadowMD",
+            "branch": "23.02.27"
+        },
+        "manifest_name": "PenumbraShadowMD-23.02.27-manifest.json"
+    }
+]
