@@ -1,6 +1,6 @@
 {
     "name": "PenumbraShadowMD",
-    "version": "23.02.04",
+    "version": "23.03.01",
     "new_install_prompt_erase": true,
     "new_install_improv_wait_time": 0,
     "builds": [
@@ -8,11 +8,11 @@
             "chipFamily": "ESP32",
             "parts": [
                 {
-                    "path": "PenumbraShadowMD-d473bf7.bin",
+                    "path": "PenumbraShadowMD-6cb6b75.bin",
                     "offset": 0
                 }
             ]
         }
     ],
-    "manifest_name": "PenumbraShadowMD-23.02.27-manifest.json"
+    "manifest_name": "PenumbraShadowMD-23.03.01-manifest.json"
 }
