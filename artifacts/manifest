@@ -1,6 +1,6 @@
 [
     {
-        "name": "PenumbraShadowMD-23.03.01",
+        "name": "PenumbraShadowMD-23.10.04",
         "branch": "23.10.04",
         "description": "### 2023 October 4",
         "url": "https://github.com/reeltwo/PenumbraShadowMD/releases/download/23.10.04/PenumbraShadowMD.bin",
@@ -11,6 +11,6 @@
             "platform": "PenumbraShadowMD",
             "branch": "23.10.04"
         },
-        "manifest_name": "PenumbraShadowMD-23.03.01-manifest.json"
+        "manifest_name": "PenumbraShadowMD-23.10.04-manifest.json"
     }
 ]
