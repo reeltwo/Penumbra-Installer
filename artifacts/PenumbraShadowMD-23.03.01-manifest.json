@@ -8,7 +8,7 @@
             "chipFamily": "ESP32",
             "parts": [
                 {
-                    "path": "PenumbraShadowMD-6cb6b75.bin",
+                    "path": "PenumbraShadowMD-2581ad2.bin",
                     "offset": 0
                 }
             ]
